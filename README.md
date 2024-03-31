@@ -41,3 +41,6 @@ void main() {
 ## Shaders folder
 - `Ig_cloth`: A flying plane changing gradient color using with Y position.
 - `Breathing`: A pulsing sphere, using normal.
+- `Circular galaxy`: Using points.
+    - Points: Show a point on every vertexes and hide the mesh.
+    - Buffer geometry: Allows us to create and customize the vertexes in any position we want.
